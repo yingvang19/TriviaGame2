@@ -1,0 +1,76 @@
+
+#question-block,#answer-block  {
+    text-align: center;
+    font-weight: bold;
+  }
+  
+  #reset {
+    visibility: visible;
+  }
+  
+  body {
+    background-image: url("../images/maintitle.jpg");
+    background-size: cover;
+    font-family: 'Luckiest Guy', cursive;
+    color: black;
+    font-size: 25px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: gold;
+    font-weight: bolder;
+    padding: 20px;
+    font-size: 90px;
+    margin: 30px;
+  }
+  .answerchoice {
+      border: 1px solid black;
+    border-radius: 5%;
+      width: 40%;
+      color: black;
+    text-align: center;
+    margin: 10px auto;
+    font-size: 40px;
+    background-color: white;
+  
+  }
+  .wrapper {
+    margin: 10px auto;
+    background-color: rgba(205, 2, 2, 0.7);
+    border: 2px solid #403fd3;
+    height: 700px;
+    width: 60%;
+    text-align: center;
+  }
+  
+  .btn {
+    position: relative;
+    bottom: -150px;
+    background: gold;
+    color: crimson;
+    font-size: xx-large;
+    border-color: red;
+  }
+  img {
+    max-height: 400px;
+    width: auto;
+  }
+  
+  p {
+    margin: 10px;
+    font-weight: bold;
+    color: rgb(255, 179, 0);
+    font-size: 40px;
+  }
+   
+  h2, h3 {
+    margin: 30px;
+    font-weight: bolder;
+    line-height: 1.1;
+    color: gold;
+    font-size: 40px;
+  
+  } 
+  
+  
